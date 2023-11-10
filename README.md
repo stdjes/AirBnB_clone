@@ -124,7 +124,7 @@ $
 
 ## Contributors
 
-    - Youssef Ahmed Bakier
+    - Stephen Eze
 
-    - Abdullah khames
+    - Michael Nketia
 
